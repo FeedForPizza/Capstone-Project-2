@@ -1,0 +1,45 @@
+#title{
+    background-image: url("aesthetic-butterfly-background-blue-border-vector-animal-illustration_53876-136888.png");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Libre Baskerville', serif;
+    color: rgb(246, 96, 118);
+}
+#img-Krissy{
+    height: 150px;
+    border-radius: 50%;
+}
+.span1{
+    color: rgb(143, 205, 226);
+    
+}
+.span2{
+    color: rgb(255, 156, 171);
+}
+.span3{
+    color: rgb(121, 243, 121);
+}
+.intro{
+    width: 35%;
+  
+}
+.headskills{
+    color:rgb(246, 104, 125);
+    font-size: 40px;
+}
+h4{
+    color:rgb(246, 104, 125);
+}
+.button{
+   background-color: rgb(255, 131, 150);
+   color: white;
+}
+.emailborder{
+    border: 2px solid rgb(246, 104, 125);
+ 
+}
+#footer{
+    background-color: rgb(255, 156, 171);
+}
